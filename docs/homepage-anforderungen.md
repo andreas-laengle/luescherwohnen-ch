@@ -11,24 +11,24 @@
 
 | Frage | Antwort |
 |---|---|
-| Um was für ein Unternehmen/Projekt geht es? | |
-| Was ist der Hauptzweck der Website? (z. B. Verkauf, Information, Lead-Generierung, Portfolio) | |
-| Handelt es sich um eine neue Website oder ein Relaunch? | |
-| Falls Relaunch: Was läuft aktuell gut / schlecht? | |
-| Gibt es ein festes Launch-Datum? | |
+| Um was für ein Unternehmen/Projekt geht es? | Verkauf Möbel, Polstermöbel, Betten, Bodenbeläge, Teppiche, Vorhangsysteme, Inneneinrichtung |
+| Was ist der Hauptzweck der Website? (z. B. Verkauf, Information, Lead-Generierung, Portfolio) | Was ist der Hauptzweck der Website? (Vorstellung Firma und Information über die Offerierten Produkte (Verkauf Möbel, Polstermöbel, Betten, Bodenbeläge, Teppiche, Vorhangsysteme, Inneneinrichtung, Beleuchtungssysteme) und Services (Innenarchitektur, Beratung im Geschäft und vor Ort beim Kunden, Lieferung und Montage durch eingene Mitarbeiter, Standort, Kontakt). Weiter sollen bereits ausgeführte Projekte präsentiert werden. In einem zweiten Schritt sollen auch einige wenige Produkte online zum Verkauf angeboten werden) |
+| Handelt es sich um eine neue Website oder ein Relaunch? | Relaunch |
+| Falls Relaunch: Was läuft aktuell gut / schlecht? | Gut läuft die allgemeine Information des Kunden über was die Firma anbietet. Eher schlecht ist die aktuelle Präsentation und der Online-Verkauf. |
+| Gibt es ein festes Launch-Datum? | Nein |
 
 ---
 
 ## 2. Zielgruppe
 
 - **Wer sind die Hauptnutzer der Website?**
-  _______________________________________________
+  Personen älter als 40 Jahre, die auf Beratung und Service Wert und eine zuverlässige, langjährige und auf Vertrauen basierende Beziehung Wert legen.
 - **Welches Problem lösen wir für sie?**
-  _______________________________________________
+  Beratung, Innenarchitektur, Verkauf, Montage aller Produkte, die mit Inneneinrichtung zu tun haben. Wir kommen auch rund um die Uhr zum Kunden nach Hause.
 - **Wie technikaffin ist die Zielgruppe?**
-  ☐ Sehr technisch ☐ Durchschnittlich ☐ Eher ungeübt
+  ☐ Sehr technisch ☐ Durchschnittlich x Eher ungeübt
 - **Über welche Geräte wird hauptsächlich zugegriffen?**
-  ☐ Desktop ☐ Mobile ☐ Tablet ☐ Gleichmäßig verteilt
+  x Desktop x Mobile ☐ Tablet ☐ Gleichmäßig verteilt
 
 ---
 
@@ -36,13 +36,13 @@
 
 | Frage | Antwort |
 |---|---|
-| Gibt es bereits ein Corporate Design / Styleguide? | ☐ Ja ☐ Nein |
-| Logo vorhanden? (Format?) | |
-| Bevorzugte Farben | |
-| Bevorzugte Schriftarten | |
-| Websites, die Ihnen als Vorbild gefallen (mit Begründung) | 1. ___________ – Warum: ___________ 2. ___________ – Warum: ___________ |
-| Websites/Stile, die Sie **nicht** mögen | |
-| Gewünschte Stimmung | ☐ Seriös ☐ Verspielt ☐ Minimalistisch ☐ Luxuriös ☐ Technisch ☐ Warm/persönlich |
+| Gibt es bereits ein Corporate Design / Styleguide? | ☐ Ja x Nein |
+| Logo vorhanden? (Format?) | JPG |
+| Bevorzugte Farben | einzige das erwähnte grün soll z.B. für Buttons verwendet werden |
+| Bevorzugte Schriftarten | muss einfach lesbar sein |
+| Websites, die Ihnen als Vorbild gefallen (mit Begründung) | 1. [form-whnen.ch](https://form-wohnen.ch) – Warum: Einfacher Aufbau 2. [Talamona Wohnbedarf](https://talamona.ch/) – Warum: Moderner Auftritt aber sonst unübersichtlich |
+| Websites/Stile, die Sie **nicht** mögen | n/a |
+| Gewünschte Stimmung | x Seriös ☐ Verspielt x Minimalistisch ☐ Luxuriös ☐ Technisch x Warm/persönlich |
 
 ---
 
@@ -52,13 +52,13 @@ Bitte alle benötigten Seiten auflisten:
 
 | Seite | Zweck | Priorität (Muss/Soll/Kann) |
 |---|---|---|
-| Startseite | | Muss |
-| Über uns | | |
-| Leistungen/Produkte | | |
-| Kontakt | | |
-| Blog/News | | |
-| Referenzen/Portfolio | | |
-| Impressum & Datenschutz | | Muss |
+| Startseite | 1 | Muss |
+| Über uns | 1 | Muss |
+| Leistungen/Produkte | 1 | Muss |
+| Kontakt | 1 | Muss |
+| Blog/News | 2 | Kann |
+| Referenzen/Portfolio | 3 | Kann |
+| Impressum & Datenschutz | 1 | Muss |
 | _weitere:_ | | |
 
 ---
@@ -67,17 +67,17 @@ Bitte alle benötigten Seiten auflisten:
 
 Bitte alle gewünschten Funktionen ankreuzen bzw. ergänzen:
 
-- ☐ Kontaktformular
+- x Kontaktformular
 - ☐ Newsletter-Anmeldung
-- ☐ Online-Shop / E-Commerce
+- x Online-Shop / E-Commerce
 - ☐ Terminbuchung
 - ☐ Mehrsprachigkeit → Sprachen: _______________
 - ☐ Nutzerkonto / Login-Bereich
-- ☐ Suche
+- x Suche
 - ☐ Blog mit Kategorien/Tags
-- ☐ Integration Social Media
+- x Integration Social Media
 - ☐ Live-Chat
-- ☐ Landkarte/Standortanzeige
+- x Landkarte/Standortanzeige
 - ☐ Video-Einbindung
 - ☐ Download-Bereich (PDFs etc.)
 - ☐ Sonstiges: _______________________________
@@ -88,10 +88,10 @@ Bitte alle gewünschten Funktionen ankreuzen bzw. ergänzen:
 
 | Frage | Antwort |
 |---|---|
-| Sind Texte bereits vorhanden oder müssen sie erstellt werden? | ☐ Vorhanden ☐ Müssen erstellt werden ☐ Teilweise |
-| Sind Bilder/Fotos vorhanden? | ☐ Ja, eigene ☐ Stockfotos nötig ☐ Fotoshooting geplant |
-| Wer liefert/pflegt die Inhalte langfristig? | |
-| Soll ein Redaktionssystem (CMS) nutzbar sein, um selbst Inhalte zu pflegen? | ☐ Ja ☐ Nein |
+| Sind Texte bereits vorhanden oder müssen sie erstellt werden? | ☐ Vorhanden ☐ Müssen erstellt werden x Teilweise |
+| Sind Bilder/Fotos vorhanden? | x Ja, eigene ☐ Stockfotos nötig ☐ Fotoshooting geplant |
+| Wer liefert/pflegt die Inhalte langfristig? | Andreas Längle |
+| Soll ein Redaktionssystem (CMS) nutzbar sein, um selbst Inhalte zu pflegen? | ☐ Ja x Nein |
 
 ---
 
@@ -99,22 +99,22 @@ Bitte alle gewünschten Funktionen ankreuzen bzw. ergänzen:
 
 | Frage | Antwort |
 |---|---|
-| Anbindung an bestehende Systeme (CRM, ERP, Newsletter-Tool etc.)? | |
-| SEO-Anforderungen (Keywords, bestehende Rankings)? | |
-| Barrierefreiheit erforderlich? | ☐ Ja ☐ Nein |
-| DSGVO-/Datenschutz-Besonderheiten? | |
-| Analytics/Tracking gewünscht (z. B. Google Analytics, Matomo)? | |
+| Anbindung an bestehende Systeme (CRM, ERP, Newsletter-Tool etc.)? | Nein |
+| SEO-Anforderungen (Keywords, bestehende Rankings)? | ??? |
+| Barrierefreiheit erforderlich? | x Ja ☐ Nein |
+| DSGVO-/Datenschutz-Besonderheiten? | Keine Besonderheiten |
+| Analytics/Tracking gewünscht (z. B. Google Analytics, Matomo)? | Nein |
 
 ---
 
 ## 8. Wettbewerb
 
 - **Wer sind Ihre 2–3 wichtigsten Mitbewerber (mit Website)?**
-  1. _______________________________
-  2. _______________________________
+  1. form-wohnen.ch
+  2. talamona.ch
   3. _______________________________
 - **Was machen diese gut/schlecht?**
-  _______________________________________________
+  Siehe oben
 
 ---
 
@@ -122,9 +122,9 @@ Bitte alle gewünschten Funktionen ankreuzen bzw. ergänzen:
 
 | Frage | Antwort |
 |---|---|
-| Gewünschter Launch-Termin | |
-| Feste Meilensteine/Deadlines? | |
-| Wer entscheidet final (Ansprechpartner/Freigabe)? | |
+| Gewünschter Launch-Termin | möglichst schnell |
+| Feste Meilensteine/Deadlines? | keine |
+| Wer entscheidet final (Ansprechpartner/Freigabe)? | Andreas Längle |
 
 ---
 
@@ -132,9 +132,15 @@ Bitte alle gewünschten Funktionen ankreuzen bzw. ergänzen:
 
 Gibt es weitere Wünsche, Einschränkungen oder Informationen, die für das Projekt wichtig sind?
 
-_______________________________________________
-_______________________________________________
-_______________________________________________
+- Wenn es eine Eigenentwicklung ohne CMS ist, dann ist der Einsatz von Bootstrap gewünscht.
+
+- Es sollen so wenige Seiten wie möglich erstellt werden (Single Page Application) aber so viele wie nötig. Lieber scrollen als Seite wechseln.
+
+- Die Navigation soll einfach nachvollziehbar sein.
+
+- Der Auftritt soll farblich hell und freundlich sein.
+
+- Weiter soll wenn immer möglich Green als Hosting Provider weiterverwendet werden.
 
 ---
 
